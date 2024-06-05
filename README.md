@@ -3,15 +3,15 @@
 
 ### TABLE OF CONTENTS
 
-[PROJECT OBJECTIVE](#project-objective)
+- [PROJECT OBJECTIVE](#project-objective)
 
-[IMPORTANCE OF PREDICTING HEART DISEASE RISK](#importance-of-predicting-heart-disease-risk)
+- [IMPORTANCE OF PREDICTING HEART DISEASE RISK](#importance-of-predicting-heart-disease-risk)
 
-[ RISK FACTORS LEADING TO CHRONIC HEART DISEASE](#risk-factors-leading-to-chronic-heart-disease)
+- [ RISK FACTORS LEADING TO CHRONIC HEART DISEASE](#risk-factors-leading-to-chronic-heart-disease)
 
-[PYTHON PROJECT FLOW](#python-project-flow)
+- [PYTHON PROJECT FLOW](#python-project-flow)
 
-[RECOMMENDATIONS](#recommendations)
+- [RECOMMENDATIONS](#recommendations)
 
 ### PROJECT OBJECTIVE
 To develop a robust machine learning model capable of accurately predicting the risk of heart disease, utilizing advanced data analysis and predictive techniques to aid in early diagnosis and prevention.
