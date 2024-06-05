@@ -1,6 +1,18 @@
 # HEART DISEASE PREDICTION
 ![Heart Diseases](https://github.com/fatmahmedanalyst/Heart-Disease-Prediction/assets/171132858/f65ac4a8-39f7-4c40-911b-1a4c1b48cdc8)
 
+### TABLE OF CONTENTS
+
+[PROJECT OBJECTIVE](#project-objective)
+
+[IMPORTANCE OF PREDICTING HEART DISEASE RISK](#importance-of-predicting-heart-disease-risk)
+
+[ RISK FACTORS LEADING TO CHRONIC HEART DISEASE](#risk-factors-leading-to-chronic-heart-disease)
+
+[PYTHON PROJECT FLOW](#python-project-flow)
+
+[RECOMMENDATIONS](#recommendations)
+
 ### PROJECT OBJECTIVE
 To develop a robust machine learning model capable of accurately predicting the risk of heart disease, utilizing advanced data analysis and predictive techniques to aid in early diagnosis and prevention.
 ### IMPORTANCE OF PREDICTING HEART DISEASE RISK
@@ -48,3 +60,4 @@ To develop a robust machine learning model capable of accurately predicting the 
 - Implement cross-validation techniques to ensure the model's robustness and generalizability across different subsets of data.
 - Ensure that data is collected from diverse sources, including electronic health records, wearable devices, and patient surveys, to capture a wide range of variables.
 
+![Screenshot 2024-06-05 115920](https://github.com/fatmahmedanalyst/Heart-Disease-Prediction/assets/171132858/99ed8043-63f4-4905-9642-ad32fc94bd6f)
