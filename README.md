@@ -1,6 +1,9 @@
 # Heart-Disease-Prediction
 ![Heart Diseases](https://github.com/fatmahmedanalyst/Heart-Disease-Prediction/assets/171132858/f65ac4a8-39f7-4c40-911b-1a4c1b48cdc8)
 
+### PROJECT OBJECTIVE
+To develop a robust machine learning model capable of accurately predicting the risk of heart disease, utilizing advanced data analysis and predictive techniques to aid in early diagnosis and prevention.
+
 ### RISK FACTORS LEADING TO CHRONIC HEART DISEASE
 - Elevated cholesterol levels
 - Pre-existing congenital heart disease
@@ -25,7 +28,8 @@
 
 ![image](https://github.com/fatmahmedanalyst/Heart-Disease-Prediction/assets/171132858/62f90220-298c-47c3-aabc-35e0a246bc48)
 ### Feature Selection
-![image](https://github.com/fatmahmedanalyst/Heart-Disease-Prediction/assets/171132858/73abb2fc-a137-483a-90dc-1ef28f21930e)
+![image](https://github.com/fatmahmedanalyst/Heart-Disease-Prediction/assets/171132858/bf225c99-4c86-417a-a207-95111e4309da)
+
 ### Spliting Data
 ![image](https://github.com/fatmahmedanalyst/Heart-Disease-Prediction/assets/171132858/35e18ee2-17fb-423a-85b1-0ce204f71f6d)
 ## Model Selection
